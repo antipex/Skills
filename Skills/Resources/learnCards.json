@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Introduction",
+        "body": "More tech companies are requiring code assessments and stringent technical interviews. This module will explore the issues with this practice and hopefully persuade companies to find alternative – and more fruitful – methods to assess candidate competency.",
+        "question": null
+    },
+    {
+        "title": "Trust",
+        "body": "Requiring a code assessment before the interview begins signals a lack of trust which could erode the candidate's perception of the company.",
+        "question": "How many good candidates have we missed because of our hiring practices?"
+    },
+    {
+        "title": "Skills",
+        "body": "Assessments and interview coding challenges often miss the point when it comes to skills verification. Many tests require extensive knowledge of binary trees, linked lists, and other computer science concepts that have absolutely no bearing on real-world problems that an engineer will face on the job.",
+        "question": "Are we assessing the correct skills for this position?"
+    },
+    {
+        "title": "Respect",
+        "body": "When hiring for open positions it's easy to forget that we're dealing with human beings who are just like us, especially when faced with a large volume of applicants. Nevertheless, it's important to respect and value candidates' time. Some candidates are currently employed and have limited time to interview, whilst others are repeating lenghtly processes for multiple companies.",
+        "question": "Is our process respectful of candidates?"
+    },
+    {
+        "title": "Inclusion",
+        "body": "Not everyone is good at taking tests. There are plenty of great candidates on the job market who excel at their job but would fail a code assessment. By excluding these candidates a company becomes less inclusive; less diverse; and thus less innovative.",
+        "question": "How can we be more inclusive?"
+    },
+    {
+        "title": "Final Thoughts",
+        "body": "With recent tech industry layoffs searching for a job has become an arduous task for many. Why not make the process better? Companies that reform hiring practices have the advantage of a strong, diverse, competent, and respectful team.",
+        "question": null
+    }
+]
